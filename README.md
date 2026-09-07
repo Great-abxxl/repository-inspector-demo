@@ -22,7 +22,7 @@ The project has three main goals:
 
 ## Repository Structure
 
-```text
+
 repository-inspector-demo/
 ├── README.md
 ├── LICENSE
@@ -32,7 +32,7 @@ repository-inspector-demo/
 │   └── architecture.md
 └── tests/
     └── test_inspector.py
-```text
+
 
 ## Main Component
 
