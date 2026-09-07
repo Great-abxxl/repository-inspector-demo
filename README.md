@@ -32,7 +32,7 @@ repository-inspector-demo/
 │   └── architecture.md
 └── tests/
     └── test_inspector.py
-```
+```text
 
 ## Main Component
 
