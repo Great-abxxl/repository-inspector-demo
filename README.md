@@ -32,6 +32,8 @@ repository-inspector-demo/
 │   └── architecture.md
 └── tests/
     └── test_inspector.py
+```
+
 ## Main Component
 
 The main implementation is located in:
